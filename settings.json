@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "CloneNiSamson",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "CloneNiSamson",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "hazeleyes.playwithbao.com",
+    "port": 30020,
     "version": "1.21.1"
   },
   "position": {
